@@ -1,6 +1,7 @@
 arandr
 atool
 base
+base-devel
 bluez
 dhcpcd
 dhcping
@@ -26,7 +27,11 @@ lynx
 man-db
 man-pages
 mediainfo
+mpd
+ncmpcpp
 nextcloud
+nodejs
+npm
 ntfs-3g
 nvidia
 obsidian
@@ -35,8 +40,6 @@ openssh
 openvpn
 pavucontrol
 poppler
-powerline
-powerline-fonts
 pulseaudio
 pulseaudio-alsa
 pulseaudio-bluetooth
@@ -46,11 +49,11 @@ sof-firmware
 sudo
 thunderbird
 tldr
-tmux
 ueberzug
 vi
 vim
 vlc
+wget
 wpa_supplicant
 xf86-video-vesa
 xorg-bdftopcf
