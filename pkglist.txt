@@ -20,9 +20,10 @@ intel-ucode
 kitty
 libreoffice-fresh
 lightdm
-lightdm-gtk-greeter
+lightdm-slick-greeter
 linux
 linux-firmware
+lsd
 lynx
 man-db
 man-pages
@@ -46,9 +47,12 @@ pulseaudio-bluetooth
 ranger
 signal-desktop
 sof-firmware
+starship
 sudo
 thunderbird
 tldr
+ttf-inconsolata-lgc-nerd
+ttf-nerd-fonts-symbols-1000-em-mono
 ueberzug
 vi
 vim
