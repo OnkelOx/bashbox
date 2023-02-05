@@ -23,7 +23,6 @@ lightdm
 lightdm-slick-greeter
 linux
 linux-firmware
-lsd
 lynx
 man-db
 man-pages
@@ -40,6 +39,7 @@ odt2txt
 openssh
 openvpn
 pavucontrol
+picom
 poppler
 pulseaudio
 pulseaudio-alsa
